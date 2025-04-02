@@ -1,7 +1,8 @@
 # Hello, I'm Toweh Elizabeth 👋
+  Little by little, the little bird builds its nest. A backend developer currently building her nest...
 
 ## About Me
-Software developer passionate about creating solutions that make a difference. I specialize in backend development with Node.js and databases, with experience in containerization and version control systems.
+Software developer passionate about creating solutions that make a difference. I specialize in backend development with Node.js and databases, with experience in version control systems.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
