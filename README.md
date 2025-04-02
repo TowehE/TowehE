@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello, I'm Toweh 👋
 
-<!--
-**TowehE/TowehE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Software developer passionate about creating solutions that make a difference. I specialize in backend development with Node.js and databases, with experience in containerization and version control systems.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VCS-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDB/Mongoose-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![TowehE's GitHub stats](https://github-readme-stats.vercel.app/api?username=TowehE&show_icons=true&theme=radical)
+
+## 🌱 I'm currently working with
+- TypeScript and JavaScript for modern web applications
+- Node.js backend development
+- Database design with MongoDB/Mongoose and PostgreSQL
+- Containerization with Docker
+- Version control using Git and GitHub
+
+## 📫 How to reach me
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/elizabeth-toweh-830173232/)
+---
+
+⭐️ From [TowehE](https://github.com/TowehE)
