@@ -17,9 +17,6 @@ Software developer passionate about creating solutions that make a difference. I
 
 
 
-## 📊 GitHub Stats
-![TowehE's GitHub stats](https://github-readme-stats.vercel.app/api?username=TowehE&show_icons=true&theme=radical)
-
 ## 🌱 I'm currently working with
 - TypeScript and JavaScript for modern web applications
 - Node.js backend development
